@@ -1,106 +1,99 @@
-<!--
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
--->
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-lucas-de-oliveira/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <!--</a>
-  <a href="https://www.youtube.com/c/seu-canal-youtube">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/seu-usuario-twitter">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>-->
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dluks82.dluks82&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dluks82.dluks82" />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Diogo Lucas de Oliveira from Curitiba, Paraná.<br><br>- 🔭 I’m working as a developer.<br>- 📚 I'm currently learning System Analysis and Development.<br>- ⚡ In my free time I enjoy coding, reading, and exploring new technologies.<br>- 🌱 I have experience in JavaScript, Node.js, and TypeScript, and some contact with Java, Python, and PHP.<br>- 🚀 Currently seeking new opportunities.</p>
+<p align="left">I'm Diogo Lucas de Oliveira, a developer based in Curitiba, Paraná.<br><br>
+- 🌱 Currently studying System Analysis and Development, with hands-on experience in full-stack development.<br>
+- 💼 Proficient in JavaScript, Node.js, TypeScript, Java, Python, PHP, and Docker.<br>
+- 🚀 Actively seeking new opportunities to apply my skills in challenging environments.<br>
+- ⚡ I enjoy exploring new technologies, contributing to open-source projects, and continuously improving my coding skills.</p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dluks82&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">📈  GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dluks82&show_icons=true&theme=dark" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluks82&layout=compact&theme=dark" height="180" alt="top langs" />
-</div>
-
-###
-
-<h3 align="left">📚  Projects</h3>
+<h3 align="left">📚 Projects</h3>
 
 ###
 
 <ul>
-  <li><a href="https://github.com/dluks82/fpw-as2-taskflow">TaskFlow</a>: A small task list project using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Docker. Developed for an evaluative activity in the Web Programming Fundamentals course. <a href="https://taskflow.11051982.xyz">Live Demo</a></li>
-  <!-- Add more projects as needed -->
+  <li><a href="https://github.com/dluks82/fpw-as2-taskflow">TaskFlow</a>: A task management app built with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Docker. Developed as a course project in Web Programming Fundamentals. <a href="https://taskflow.11051982.xyz">Live Demo</a></li>
+  <li><a href="https://github.com/dluks82/coders24_lp_projeto_final">Contacts Manager</a>: A simple Java-based application developed as part of the Logic Programming I course. This project features a contact management system where users can add, remove, and view contacts stored in an array. The application is designed to operate without the use of Object-Oriented Programming (OOP) principles, focusing on fundamental programming logic.</li>
 </ul>
 
 ###
 
-<h3 align="left">📫  Contact Me</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 ###
 
-<p align="left">You can reach me at dluks82@gmail.com</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dluks82&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats" />
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dluks82&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluks82&layout=compact&theme=dark" height="180" alt="Top Languages" />
+</div>
+
+###
+
+<h3 align="left">📫 Contact Me</h3>
+
+###
+
+<p align="left">Feel free to reach out via email: <a href="mailto:dluks82@gmail.com">dluks82@gmail.com</a></p>
