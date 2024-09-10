@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Diogo Lucas de Oliveira, a developer based in Curitiba, Paraná.<br><br>
+<p align="left">Diogo Lucas de Oliveira, a developer based in Curitiba, Paraná.<br><br>
 - 🌱 Currently studying System Analysis and Development, with hands-on experience in full-stack development.<br>
 - 💼 Proficient in JavaScript, Node.js, TypeScript, Java, Python, PHP, and Docker.<br>
 - 🚀 Actively seeking new opportunities to apply my skills in challenging environments.<br>
