@@ -36,8 +36,12 @@
 
 <ul>
   <li><a href="https://github.com/dluks82/fpw-as2-taskflow">TaskFlow</a>: A task management app built with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Docker. Developed as a course project in Web Programming Fundamentals. <a href="https://taskflow.11051982.xyz">Live Demo</a></li>
+  
   <li><a href="https://github.com/dluks82/coders24_lp_projeto_final">Contacts Manager</a>: A simple Java-based application developed as part of the Logic Programming I course. This project features a contact management system where users can add, remove, and view contacts stored in an array. The application is designed to operate without the use of Object-Oriented Programming (OOP) principles, focusing on fundamental programming logic.</li>
+
+  <li><a href="https://github.com/dluks82/coders24_poo_projeto_final">Coders Bank</a>: An evolution of the Contacts Manager project, developed in the Object-Oriented Programming I course. This Java-based banking application incorporates object-oriented principles, adding features such as CPF validation, password security, transaction management, and data persistence.</li>
 </ul>
+
 
 ###
 
