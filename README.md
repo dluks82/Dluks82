@@ -40,8 +40,15 @@
   <li><a href="https://github.com/dluks82/coders24_lp_projeto_final">Contacts Manager</a>: A simple Java-based application developed as part of the Logic Programming I course. This project features a contact management system where users can add, remove, and view contacts stored in an array. The application is designed to operate without the use of Object-Oriented Programming (OOP) principles, focusing on fundamental programming logic.</li>
 
   <li><a href="https://github.com/dluks82/coders24_poo_projeto_final">Coders Bank</a>: An evolution of the Contacts Manager project, developed in the Object-Oriented Programming I course. This Java-based banking application incorporates object-oriented principles, adding features such as CPF validation, password security, transaction management, and data persistence.</li>
-</ul>
 
+  <li><a href="https://github.com/dluks82/coders24_tpi_projeto_final">Brasileirão Coders</a>: A Java-based application designed to process and display complex data related to the Brazilian Football Championship. Initially planned as a REST API delivering JSON, the team chose to challenge themselves with Server-Side Rendering (SSR), providing HTML pages. The endpoints are differentiated as:
+    <ul>
+      <li><code>/api</code>: Returns data in JSON format.</li>
+      <li><code>/web</code>: Returns HTML pages.</li>
+    </ul>
+  The project utilizes Java Streams, NIO, and parallel programming for handling large datasets.
+  </li>
+</ul>
 
 ###
 
